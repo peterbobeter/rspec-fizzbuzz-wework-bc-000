@@ -11,4 +11,4 @@ def fizzbuzz(int)
 end
 
 
-fizzbuzz(30lea)
+fizzbuzz(30)
